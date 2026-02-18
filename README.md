@@ -1,5 +1,7 @@
-### I do stuff
+I'm TheHolyTachanka, a Bulgarian organized Marxist-Leninist, infosec enthusiast and amatuer mechanical engineer. 
 
-- **Monero:** `8ApK8CEXSFWULXPKSz6YKEabd1V1L14WPbrfaYF2xrm7NEWZFMW9HxdXMnXoQfd1mDE4Yyi4BK1i4CSdMJEvQALCJJ1WTQz`
+I love self-hosting, CTFs, and TF2(both). Always curious. 
 
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/ilovethensa/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/ilovethensa/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/ilovethensa/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table> 
+I currently work as an infosec specialist at 9f1c2a7d. Im also an amatuer mechanical engineer working mainly with robotics and drones. 
+
+Im looking for work, freelance-only.
